@@ -1,6 +1,6 @@
 - 👋 oi eu sou @gaby1202
-- 👀 I’m interested in aprender linguagem python
-- 🌱 I’m currently learning linguagem c#,HTML e CSS. 
+- 👀 Estou interessada em aprender linguagem python
+- 🌱 No momento estou apredendo linguagem c#,HTML e CSS. 
 
 
 <!---
